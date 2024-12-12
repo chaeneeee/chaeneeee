@@ -51,8 +51,7 @@
     <div style="display: inline-block;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaeneeee&layout=compact&theme=light" alt="Top Langs">
         <img src="https://github-readme-stats.vercel.app/api?username=chaeneeee&show_icons=true&theme=light" alt="Chaeneeee's GitHub stats" style="margin-right:10px;">
-
-    </div>
+  </div>
 </div>
 
 
